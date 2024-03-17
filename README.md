@@ -1,1 +1,4 @@
-# Powerbi
+# HR ANALYTICS -Dashboard
+## Problem Statement
+
+The organization is experiencing a concerning rate of employee attrition, which poses significant challenges to maintaining a stable and productive workforce. The absence of a robust HR analytics dashboard exacerbates this issue by limiting the ability to identify underlying causes, predict attrition patterns, and implement targeted retention strategies. Without a comprehensive understanding of factors contributing to attrition, such as job satisfaction, compensation, career development opportunities, and workplace culture, the organization struggles to effectively mitigate turnover and its associated costs, including recruitment expenses, productivity loss, and knowledge drain. To address this critical issue, there is an urgent need to develop an HR analytics dashboard specifically tailored to analyze attrition data, enabling proactive interventions and fostering a culture of employee retention and organizational sustainability.
